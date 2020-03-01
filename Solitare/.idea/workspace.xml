@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cfde1a3-cf27-49c4-8066-dbc088a3c001" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCKzaxT9Y9bIuzqOpI12h7w4M0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.AppKt">
+    <configuration name="FoundationPileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Solitare" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoundationPileTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoundationPileTest.addCards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Solitare" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoundationPileTest" />
+      <option name="METHOD_NAME" value="addCards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Solitare" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Solitare" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.FoundationPileTest" />
+        <item itemvalue="JUnit.FoundationPileTest.addCards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cfde1a3-cf27-49c4-8066-dbc088a3c001" name="Default Changelist" comment="" />
+      <created>1582441401830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582441401830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="44" key="#Project_Structure" timestamp="1582441439116">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="281" y="44" key="#Project_Structure/0.27.1366.716@0.27.1366.716" timestamp="1582441439116" />
+    <state x="494" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1583050985025">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="494" y="102" key="#com.intellij.ide.util.MemberChooser/0.27.1366.716@0.27.1366.716" timestamp="1583050985025" />
+    <state x="469" y="141" key="FileChooserDialogImpl" timestamp="1583048781392">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="469" y="141" key="FileChooserDialogImpl/0.27.1366.716@0.27.1366.716" timestamp="1583048781392" />
+    <state x="542" y="279" key="Github.ShareDialog" timestamp="1583056355412">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="542" y="279" key="Github.ShareDialog/0.27.1366.716@0.27.1366.716" timestamp="1583056355412" />
+    <state width="1324" height="206" key="GridCell.Tab.0.bottom" timestamp="1583056085361">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.bottom/0.27.1366.716@0.27.1366.716" timestamp="1583056085361" />
+    <state width="1324" height="206" key="GridCell.Tab.0.center" timestamp="1583056085360">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.center/0.27.1366.716@0.27.1366.716" timestamp="1583056085360" />
+    <state width="1324" height="206" key="GridCell.Tab.0.left" timestamp="1583056085359">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.left/0.27.1366.716@0.27.1366.716" timestamp="1583056085359" />
+    <state width="1324" height="206" key="GridCell.Tab.0.right" timestamp="1583056085360">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.right/0.27.1366.716@0.27.1366.716" timestamp="1583056085360" />
+    <state x="141" y="27" key="SettingsEditor" timestamp="1583030695465">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="141" y="27" key="SettingsEditor/0.27.1366.716@0.27.1366.716" timestamp="1583030695464" />
+    <state x="352" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1583051648629">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="352" y="209" key="com.intellij.ide.util.TipDialog/0.27.1366.716@0.27.1366.716" timestamp="1583051648629" />
+    <state x="359" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583030839991">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="359" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.716@0.27.1366.716" timestamp="1583030839991" />
+    <state x="460" y="79" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1583030853398">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="460" y="79" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.27.1366.716@0.27.1366.716" timestamp="1583030853398" />
+    <state x="346" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1583047549776">
+      <screen x="0" y="27" width="1366" height="716" />
+    </state>
+    <state x="346" y="64" width="672" height="678" key="search.everywhere.popup/0.27.1366.716@0.27.1366.716" timestamp="1583047549775" />
+  </component>
+</project>
